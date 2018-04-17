@@ -6,3 +6,4 @@
 - git: {local-name: USYD-RowBot/rowbot_description, uri: 'https://github.com/USYD-RowBot/rowbot_description.git'}
 - git: {local-name: USYD-RowBot/rowbot_navigation, uri: 'https://github.com/USYD-RowBot/rowbot_navigation'}
 - git: {local-name: USYD-RowBot/rowbot_vision, uri: 'https://github.com/USYD-RowBot/rowbot_vision'}
+- git: {local-name: velodyne_simulator, uri: 'https://bitbucket.org/DataspeedInc/velodyne_simulator.git'}
