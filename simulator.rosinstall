@@ -1,4 +1,4 @@
-- hg: {local-name: vmrc, uri: 'https://bitbucket.org/osrf/vmrc.git' , version: 'vmrc_0.1.1'}
+- git: {local-name: simulation, uri: 'https://github.com/USYD-RowBot/simulation.git'}
 - git: {local-name: nps_robotx, uri: 'https://github.com/bsb808/nps_robotx.git'}
 - git: {local-name: pointgrey_camera_driver, uri: 'https://github.com/ros-drivers/pointgrey_camera_driver.git'}
 - git: {local-name: USYD-RowBot/rowbot_gazebo, uri: 'https://github.com/USYD-RowBot/rowbot_gazebo.git'}
