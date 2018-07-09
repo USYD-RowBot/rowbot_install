@@ -8,3 +8,18 @@ To install: Move simulator.rosinstall to your src folder and rename to .rosinsta
 Make your workspace using catkin_make. Run '/devel/setup.bash'
 
 To launch. Run 'roslaunch rowbot_sim_bringup bringup.launch'.
+
+
+
+Commands
+'''
+cd ~
+mkdir-p catkin_ws/src
+cd src
+sudo apt-get install ros-kinetic-hector-gazebo-plugins
+sudo apt-get install ros-kinetic-pointcloud-to-laserscan
+sudo apt-get install ros-kinetic-navigation
+gedit .rosinstall
+'''
+Copy contents of simulator.install in here
+'''
