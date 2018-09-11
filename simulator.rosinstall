@@ -1,6 +1,5 @@
 - git: {local-name: simulation, uri: 'https://github.com/USYD-RowBot/simulation.git'}
 - git: {local-name: nps_robotx, uri: 'https://github.com/bsb808/nps_robotx.git'}
-- git: {local-name: pointgrey_camera_driver, uri: 'https://github.com/ros-drivers/pointgrey_camera_driver.git'}
 - git: {local-name: USYD-RowBot/rowbot_gazebo, uri: 'https://github.com/USYD-RowBot/rowbot_gazebo.git'}
 - git: {local-name: USYD-RowBot/rowbot_rviz, uri: 'https://github.com/USYD-RowBot/rowbot_rviz.git'}
 - git: {local-name: USYD-RowBot/rowbot_description, uri: 'https://github.com/USYD-RowBot/rowbot_description.git'}
