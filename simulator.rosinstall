@@ -4,3 +4,4 @@
 - git: {local-name: USYD-RowBot/rowbot_description, uri: 'https://github.com/USYD-RowBot/rowbot_description.git'}
 - git: {local-name: USYD-RowBot/rowbot_navigation, uri: 'https://github.com/USYD-RowBot/rowbot_navigation'}
 - git: {local-name: USYD-RowBot/rowbot_sim_bringup, uri: 'https://github.com/USYD-RowBot/rowbot_sim_bringup.git'}
+- git: {local-name: USYD-RowBot/rowbot_control, uri: 'https://github.com/JacksonHShields/rowbot_control.git'}
