@@ -4,6 +4,10 @@
 - git: {local-name: USYD-RowBot/rowbot_description, uri: 'https://github.com/USYD-RowBot/rowbot_description.git'}
 - git: {local-name: USYD-RowBot/rowbot_navigation, uri: 'https://github.com/USYD-RowBot/rowbot_navigation'}
 - git: {local-name: USYD-RowBot/rowbot_sim_bringup, uri: 'https://github.com/USYD-RowBot/rowbot_sim_bringup.git'}
+<<<<<<< HEAD
 - git: {local-name: USYD-RowBot/rowbot_control, uri: 'https://github.com/USYD-RowBot/rowbot_control.git'}
 - git: {local-name: USYD-RowBot/simple_waypoints, uri: 'https://github.com/USYD-RowBot/simple_waypoints.git'}
 - git: {local-name: USYD-RowBot/rowbot_msgs, uri: 'https://github.com/USYD-RowBot/rowbot_msgs.git'}
+=======
+- git: {local-name: USYD-RowBot/rowbot_control, uri: 'https://github.com/JacksonHShields/rowbot_control.git'}
+>>>>>>> 6227da66ec9a6f8d5ce9fd58a834a9605a87ae10
